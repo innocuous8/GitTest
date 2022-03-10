@@ -1,0 +1,5 @@
+*.pdf filter=lfs diff=lfs merge=lfs -text
+8.tgr filter=lfs diff=lfs merge=lfs -text
+*.tgr filter=lfs diff=lfs merge=lfs -text
+*.bmp filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
