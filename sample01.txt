@@ -1,1 +1,7 @@
 깃 사용법
+
+"최종프로젝트 아자아자 화이팅,,"
+
+git remote add {별칭} {URL}
+
+git remote add origin http://git....
